@@ -1,0 +1,4 @@
+alive_progress==3.1.4
+leakpy==1.6.6
+requests==2.25.1
+rich==13.5.3
